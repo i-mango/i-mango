@@ -19,3 +19,9 @@ I'm mango Pan, a junior front-end development engineer.
 
 ### About me      
 ![i-mango's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-mango&layout=compact&hide_border=true&langs_count=10)
+#### 个人数据统计
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=i-mango&theme=neon&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+
+#### stats
+
+![i-mango's github stats](https://github-readme-stats.vercel.app/api?username=i-mango&theme=radical) 
